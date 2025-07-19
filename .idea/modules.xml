@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stackfixer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stackfixer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stackfixer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/stackfixer.test.iml" />
+    </modules>
+  </component>
+</project>

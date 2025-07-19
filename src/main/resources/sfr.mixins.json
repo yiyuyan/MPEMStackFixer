@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.sfr.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "sfr.refmap.json",
+  "mixins": [
+    "ContainerMixin",
+    "ItemStackMixin",
+    "ServerGameListenerMixin",
+    "fixes.AnvilMenuMixin",
+    "fixes.EnchantmentTableMenuMixin",
+    "fixes.GiveCommandMixin",
+    "fixes.GrindstoneMenuMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
